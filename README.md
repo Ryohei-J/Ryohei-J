@@ -2,6 +2,10 @@
 
 I'm a full-time web developer. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact)]
+(https://github.com/Ryohei-J/github-readme-stats)
+
+
 <!--
 **Ryohei-J/Ryohei-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
