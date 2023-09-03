@@ -2,8 +2,7 @@
 
 I'm a full-time web developer. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryohei-J&layout=compact)]
-(https://github.com/Ryohei-J/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryohei-J&layout=compact)
 
 
 <!--
